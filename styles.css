@@ -4,6 +4,35 @@
     box-sizing: inherit;
 }
 
+.page-title {
+    font-size: large;    
+    text-align: center;
+}
+
+
+ul {
+    float: left;
+    display: block;
+    background-color: white;
+}
+
+.home-menu:hover {
+
+background-color: brown;
+}
+
+header {
+    background-color: white;
+    position: relative;
+    padding: 1cm;
+}
+
+body{
+    font-style:normal;
+    font-family: Segoe UI;
+    
+}
+
 html {
     box-sizing: border-box;
     font-size: 62.5%;
@@ -20,3 +49,22 @@ html {
 .align-items{
     align-items: baseline;
 }
+
+.product-card-1 {
+    text-align: left;
+}
+
+.product-card-2 {
+    text-align: center;
+}
+
+.prodcut-card-3 {
+    text-align:  right;
+}
+
+.footer {
+    background-color: orange;
+    position: relative;
+    padding: 1cm;
+}
+
